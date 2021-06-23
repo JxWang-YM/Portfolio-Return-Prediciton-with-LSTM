@@ -6,7 +6,7 @@ This project is intent to be a hands-on exercise to understand the intricacy and
 
 This project consists of two parts:
 - Monthly return prediction for a portfolio of selected stocks ('AAL', 'DIS', 'F', 'MSFT') using LSTM Neural Network. 
-- Based on the predicted returns, construct the optimal portfolio using Efficient Fronter approach
+- Based on the predicted returns, construct the optimal portfolio using Efficient Fronter approach.
 
 Dataset
 ---------
