@@ -5,12 +5,12 @@ Objective
 This project is intent to be a hands-on exercise to understand the intricacy and implementation of the LSTM Neural Network. 
 
 This project consists of two parts:
-- Monthly return prediction for a portfolio of selected stocks ('AAL', 'DIS', 'F', 'MSFT') using LSTM Neural Network. 
-- Based on the predicted returns, construct the optimal portfolio using Efficient Fronter approach.
+1. Monthly return prediction for a portfolio of selected stocks ('AAL', 'DIS', 'F', 'MSFT') using LSTM Neural Network. 
+2. Based on the predicted returns, construct the optimal portfolio using Efficient Fronter approach.
 
 Dataset
 ---------
-Monthly return of each of the stocks in the portfolio for the past 5 years extracted using Quandl API.
+Monthly return of each stocks in the portfolio for the past 5 years extracted using Quandl API.
 
 Output
 ---------
